@@ -1,6 +1,6 @@
 [rsschool-cv](https://DEniSCHauR40.github.io/rsschool-cv/cv)
 # Denis Chaur
-<img src="./photo_2022-05-25_13-59-38.jpg" width="100px" alt="My photo"/>
+<img src="./IMG_0383.jpeg" width="100px" alt="My photo"/>
 
 ## Personal data
 * Born on August 29, 1982 in the city of Slutsk
