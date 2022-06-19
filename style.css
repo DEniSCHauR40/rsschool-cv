@@ -1,0 +1,17 @@
+* {
+    margin: o;
+    padding: 0;
+}
+
+
+.text-block {
+    background-color: blue;
+    display: block;
+    width: 136px;
+    height: 21px;
+    overflow: hidden;
+}
+
+.text-block:hover {
+    background-color: red;
+}
